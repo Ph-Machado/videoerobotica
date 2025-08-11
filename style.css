@@ -1,7 +1,7 @@
 body {
-  color: white; */cor do texto/*
-  background: black;
+  color: white; /*cor do texto*/
+  background: black; /*cor do fundo da página*/
   margin: 0px;
-  font-family: "Chakra Petch", sans-serif;
+  font-family: "Chakra Petch", sans-serif; /*fonte do texto*/
   margin-bottom: 100px;
 }
