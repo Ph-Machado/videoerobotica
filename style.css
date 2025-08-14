@@ -3,5 +3,5 @@ body {
   background: black; /*cor do fundo da página*/
   margin: 0px; /*define margem dos itens para todos os lados*/
   font-family: "Chakra Petch", sans-serif; /*fonte do texto*/
-  margin-bottom: 100px;
+  margin-bottom: 100px; /*define a margem dos intens para baixo*/
 }
